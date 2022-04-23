@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afegao
+- 👋 Hi, I’m @kaique
 - 👀 I’m interested in desenvolver
 - 🌱 I’m currently learning criação de aplicativos e sistemas 
 - 💞️ I’m looking to collaborate on tudo que estiver ao meu alcance 
